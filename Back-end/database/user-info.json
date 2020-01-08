@@ -1,0 +1,17 @@
+[
+    {"user_id": "id1",
+    "battery": 100,
+    "name": "user 1",
+    "speed": 10
+    },
+    {"user_id": "id2",
+    "battery": 100,
+    "name": "user 2",
+    "speed": 10
+    },
+    {"user_id": "id3",
+    "battery": 100,
+    "name": "user 1",
+    "speed": 10
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "Circle_id": "_tio0udx0s",
+        "name": "circle 1",
+        "user_list": [
+            "id1",
+            "id2"
+        ]
+    },
+    {
+        "Circle_id": "_8rjwcqhvv",
+        "name": "circle 2",
+        "user_list": [
+            "id2",
+            "id3"
+        ]
+    },
+    {
+        "Circle_id": "_3df6qzlqk",
+        "name": "circle 3",
+        "user_list": [
+            "id1",
+            "id3"
+        ]
+    },
+    {
+        "Circle_id": "_9puvxyvs6",
+        "name": "name1",
+        "user_list": [
+            "id1"
+        ]
+    }
+]
